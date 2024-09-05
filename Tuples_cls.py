@@ -1,7 +1,7 @@
 # Tuples:
 
-tuple2 = 23
-print(tuple2)       #23
+tuple2 = 43
+print(tuple2)       #43
 print(type(tuple2)) #<class 'int'>
 
 # single value tuple
